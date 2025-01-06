@@ -1,0 +1,39 @@
+.inputdata{
+  width: full;
+  display: flex;
+}
+input{
+  height: 30px;
+  width: 230px;
+  font-size: 20px;
+  margin: 30px auto;
+
+}
+.container{
+  width: 1300px;
+  margin: 0 180px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 33px;
+}
+.box{
+  width: 300px;
+  height: 350px;
+  border-radius: 10px;
+  background-color: aquamarine;
+  
+}
+.load{
+  width: full;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h2{
+  text-align: center;
+}
+.img{
+  width: 250px;
+  height: 300px;
+}
